@@ -40,6 +40,8 @@ yolo_data/
 yolo_data_subseq/
 yolo_data_subseq_empty/
 dataset/
+Weighted-Boxes-Fusion/
+tph-yolov5/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
